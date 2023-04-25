@@ -1,0 +1,23 @@
+body{
+    background-color:#0C090A;
+	font-family: 'Sedgwick Ave Display', cursive;
+	color:white;
+}
+.div1{
+	background-color:#2B3856;
+	padding: 4px ;
+	box-sizing:border-box;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+span{
+	color:#55E3E5;
+}
+.div6{
+	font-size:30px;
+}
+.r1{
+	background-color:#033E3E;
+}
